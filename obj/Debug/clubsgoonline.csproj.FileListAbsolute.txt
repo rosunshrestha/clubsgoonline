@@ -1,0 +1,15 @@
+C:\Users\Prajwol XPS\Desktop\clubs are goig online\clubsgoonline 15\clubsgoonline\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Prajwol XPS\Desktop\clubs are goig online\clubsgoonline 15\clubsgoonline\bin\clubsgoonline.dll
+C:\Users\Prajwol XPS\Desktop\clubs are goig online\clubsgoonline 15\clubsgoonline\bin\clubsgoonline.pdb
+C:\Users\Prajwol XPS\Desktop\clubs are goig online\clubsgoonline 15\clubsgoonline\obj\Debug\clubsgoonline.dll
+C:\Users\Prajwol XPS\Desktop\clubs are goig online\clubsgoonline 15\clubsgoonline\obj\Debug\clubsgoonline.pdb
+C:\Users\Prajwol XPS\Desktop\clubs are goig online\trynewphotoupload\clubsgoonline\bin\clubsgoonline.dll
+C:\Users\Prajwol XPS\Desktop\clubs are goig online\trynewphotoupload\clubsgoonline\bin\clubsgoonline.pdb
+C:\Users\Prajwol XPS\Desktop\clubs are goig online\trynewphotoupload\clubsgoonline\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Prajwol XPS\Desktop\clubs are goig online\trynewphotoupload\clubsgoonline\obj\Debug\clubsgoonline.dll
+C:\Users\Prajwol XPS\Desktop\clubs are goig online\trynewphotoupload\clubsgoonline\obj\Debug\clubsgoonline.pdb
+C:\Users\Prajwol XPS\Desktop\clubs are goig online\1ClubsareGoingOnline\clubsgoonline\bin\clubsgoonline.dll
+C:\Users\Prajwol XPS\Desktop\clubs are goig online\1ClubsareGoingOnline\clubsgoonline\bin\clubsgoonline.pdb
+C:\Users\Prajwol XPS\Desktop\clubs are goig online\1ClubsareGoingOnline\clubsgoonline\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Prajwol XPS\Desktop\clubs are goig online\1ClubsareGoingOnline\clubsgoonline\obj\Debug\clubsgoonline.dll
+C:\Users\Prajwol XPS\Desktop\clubs are goig online\1ClubsareGoingOnline\clubsgoonline\obj\Debug\clubsgoonline.pdb
